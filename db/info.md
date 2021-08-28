@@ -1,3 +1,3 @@
 # Base de Datos / Database
 Guarda las tareas creadas en archivo .json
-Save tasks in a .json fil
+/ Save tasks in a .json file
